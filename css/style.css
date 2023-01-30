@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 15px;
+    font-size: 16px;
 }
 
 .tight-width-whitespace {
@@ -736,7 +736,7 @@ h4 {
 }
 
 .white {
-    color: #504646!important;
+    color: #FFFFFF!important;
 }
 
 .portfolio-thumb {
@@ -775,7 +775,7 @@ h4 {
     background-color: #F3A884;
 }
 
-.tc-white {
+.tc-orange {
     color: #F3A884!important;
 }
 
